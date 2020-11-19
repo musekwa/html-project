@@ -1,0 +1,15 @@
+p {
+    font-size: 34px;
+}
+
+body {
+    background-color: aqua;
+}
+
+img {
+    margin: 8px;
+    width: 400px;
+    height: 400px;
+    border: 10px solid green;
+    border-radius: 100%;
+}
